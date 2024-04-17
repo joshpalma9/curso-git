@@ -2,4 +2,4 @@ def suma(*num):
     return sum(num)
     
     
-print(suma(2,3))
+print( f"la suma es:  {suma(2,3)}")
